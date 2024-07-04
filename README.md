@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Llirik93
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning JS,React,Node
-- 💞️ I’m looking to collaborate
+- 👋 Hi, I’m @Dusarek
+- 👀 I’m interested in React, Node and MongoDB 
+- 🌱 I’m currently learning/working
+- 💞️ I’m looking for job
 - 📫 How to reach me , 
 
 <!---
